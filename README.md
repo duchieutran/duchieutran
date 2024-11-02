@@ -21,4 +21,8 @@
   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anhlovehieu) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/thanhthao2004/duchieutran/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
