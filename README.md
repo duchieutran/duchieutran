@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫About Me :
+👋 Hello! My name is Tran Duc Hieu.
+🎂 I was born in 2004.
+💻 Currently, I’m a Flutter developer.
+📚 I’m studying at Hanoi National University of Education.
+⚡ My hobbies include coding, sleeping, and exploring computers.
 
-<!--
-**duchieutran/duchieutran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tdh.bmw?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_._hiu_._/profilecard/?igsh=MTNha3llOTkwYjc1MQ==) 
 
-Here are some ideas to get you started:
+# 💻Tech Stack
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=duchieutran&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=duchieutran&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duchieutran&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=duchieutran&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+  ## 💰You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anhlovehieu) 
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
