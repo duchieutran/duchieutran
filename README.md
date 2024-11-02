@@ -1,8 +1,12 @@
 # 💫About Me :
 👋 Hello! My name is Tran Duc Hieu.
+
 🎂 I was born in 2004.
+
 💻 Currently, I’m a Flutter developer.
+
 📚 I’m studying at Hanoi National University of Education.
+
 ⚡ My hobbies include coding, sleeping, and exploring computers.
 
 ## 🌐Socials
