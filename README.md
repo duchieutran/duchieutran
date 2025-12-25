@@ -10,7 +10,7 @@
 ⚡ My hobbies include coding, sleeping, and exploring computers.
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tdh.bmw?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_._hiu_._/profilecard/?igsh=MTNha3llOTkwYjc1MQ==) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tdh.bmw?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ttp2016_/profilecard/?igsh=MTNha3llOTkwYjc1MQ==) 
 
 # 💻Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
@@ -22,11 +22,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=duchieutran&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anhlovehieu) 
+## 💰You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anhlovehieu) 
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/duchieutran/duchieutran/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
